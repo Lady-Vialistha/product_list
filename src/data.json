@@ -1,0 +1,460 @@
+{
+    "content": [
+        {
+            "id": 3,
+            "name": "Topi Army pria wanita",
+           
+            "description": "<p>Topi army untuk pria dan wanita</p><p><br></p><p>All size</p>",
+            "price": 60000,
+            "rate": 0.0,
+            "is_special_cut": false,
+            "nominal_special_cut": 0.0,
+            "category": {
+                "id": 11,
+                "name": "   dgs",
+                "type": 0
+            },
+            "spec": [
+                {
+                    "id": 70,
+                    "color": "merah",
+                    "size": "",
+                    "total_stock": 0,
+                    "weight": 0.1,
+                    "height": 2.0,
+                    "width": 1.1,
+                    "length": 1.0
+                },
+                {
+                    "id": 3,
+                    "color": "Army Hijau",
+                    "size": "",
+                    "total_stock": 45,
+                    "weight": 0.1,
+                    "height": 2.0,
+                    "width": 1.1,
+                    "length": 1.0
+                }
+            ],
+            "product_image": [
+                {
+                    "id": 15,
+                    "name": "e427ab9a-9a4c-4260-9ddc-2592685a051b.jpg",
+                    "img_url": "http://apis.lakugan.monstercode.net/cdn/product-image/1617680070329.jpeg"
+                }
+            ],
+            "pre_order": false,
+            "count_day": 0
+        },
+        {
+            "id": 5,
+            "name": "Royal Jelly",
+            
+            "description": "<p>Madu sehat, sumber alami berkhasiat untuk mneyembuhkan semua penyakit</p>",
+            "price": 500000,
+            "rate": 0.0,
+            "is_special_cut": false,
+            "nominal_special_cut": 0.0,
+            "category": {
+                "id": 22,
+                "name": "    ",
+                "type": 0
+            },
+            "spec": [
+                {
+                    "id": 5,
+                    "color": "",
+                    "size": "",
+                    "total_stock": 10,
+                    "weight": 0.5,
+                    "height": 0.2,
+                    "width": 0.2,
+                    "length": 0.2
+                }
+            ],
+            "product_image": [
+                {
+                    "id": 21,
+                    "name": "0066625f86e590b4ccef5261bc9ff8f1.jpg",
+                    "img_url": "http://apis.lakugan.monstercode.net/cdn/product-image/1617680454479.jpeg"
+                },
+                {
+                    "id": 22,
+                    "name": "5d846599-963c-488b-ac16-0f426ce02a47.jpg",
+                    "img_url": "http://apis.lakugan.monstercode.net/cdn/product-image/1617680454493.jpeg"
+                }
+            ],
+            "pre_order": false,
+            "count_day": 0
+        },
+        {
+            "id": 4,
+            "name": "whey protein isolate",
+            
+            "description": "<p>Whey protein isolate untuk membentuk otot, rendah kalori tinggi protein</p>",
+            "price": 180000,
+            "rate": 0.0,
+            "is_special_cut": false,
+            "nominal_special_cut": 0.0,
+            "category": {
+                "id": 22,
+                "name": "    ",
+                "type": 0
+            },
+            "spec": [
+                {
+                    "id": 74,
+                    "color": "",
+                    "size": "",
+                    "total_stock": 0,
+                    "weight": 0.0,
+                    "height": 0.0,
+                    "width": 0.0,
+                    "length": 0.0
+                },
+                {
+                    "id": 4,
+                    "color": "",
+                    "size": "",
+                    "total_stock": 19,
+                    "weight": 0.5,
+                    "height": 2.0,
+                    "width": 0.2,
+                    "length": 0.2
+                }
+            ],
+            "product_image": [
+                {
+                    "id": 16,
+                    "name": "f1664327-b731-40ff-bc12-a851e40be66e.jpg",
+                    "img_url": "http://apis.lakugan.monstercode.net/cdn/product-image/1617680340888.jpeg"
+                },
+                {
+                    "id": 17,
+                    "name": "c0bdfcaf-4dd8-4f44-a83f-c14bf834b2bf.jpg",
+                    "img_url": "http://apis.lakugan.monstercode.net/cdn/product-image/1617680341065.jpeg"
+                },
+                {
+                    "id": 18,
+                    "name": "0445eb08-0125-4128-a9da-53e3da73e4bb.jpg",
+                    "img_url": "http://apis.lakugan.monstercode.net/cdn/product-image/1617680341097.jpeg"
+                },
+                {
+                    "id": 19,
+                    "name": "87c24352-58a2-4b36-a6ca-146cadba8509.jpg",
+                    "img_url": "http://apis.lakugan.monstercode.net/cdn/product-image/1617680341133.jpeg"
+                },
+                {
+                    "id": 20,
+                    "name": "fe79b376-cbe9-4d1f-b228-e4033222618a.jpg",
+                    "img_url": "http://apis.lakugan.monstercode.net/cdn/product-image/1617680341175.jpeg"
+                }
+            ],
+            "pre_order": false,
+            "count_day": 0
+        },
+        {
+            "id": 48,
+            "name": "Gunting Kecil - Merk Emigo - Panjang 4 inch atau 13 cm Gunting Kecil - Merk Emigo - Panjang 4 inch atau 13 cm",
+            
+            "description": "<p>fwefwefwfwe</p>",
+            "price": 10000,
+            "rate": 0.0,
+            "is_special_cut": false,
+            "nominal_special_cut": 0.0,
+            "category": {
+                "id": 37,
+                "name": "Barang kebutuhan rumah tangga",
+                "type": 0
+            },
+            "spec": [
+                {
+                    "id": 75,
+                    "color": "Kuning",
+                    "size": "",
+                    "total_stock": 3,
+                    "weight": 0.3,
+                    "height": 7.0,
+                    "width": 5.0,
+                    "length": 19.0
+                },
+                {
+                    "id": 77,
+                    "color": "Merah",
+                    "size": "",
+                    "total_stock": 1,
+                    "weight": 0.3,
+                    "height": 7.0,
+                    "width": 9.0,
+                    "length": 19.9
+                }
+            ],
+            "product_image": [
+                {
+                    "id": 116,
+                    "name": "IMG_20210604_095506.jpg",
+                    "img_url": "http://apis.lakugan.monstercode.net/cdn/product-image/1622775325293.jpeg"
+                }
+            ],
+            "pre_order": false,
+            "count_day": 0,
+            "rating": 3.0,
+            "rated": 3
+        },
+        {
+            "id": 33,
+            "name": "Dispenser tempat kantong plastik",
+            
+            "description": "<p>dispenser kantong plastik</p>",
+            "price": 35500,
+            "rate": 0.0,
+            "is_special_cut": false,
+            "nominal_special_cut": 0.0,
+            "category": {
+                "id": 37,
+                "name": "Barang kebutuhan rumah tangga",
+                "type": 0
+            },
+            "spec": [
+                {
+                    "id": 51,
+                    "color": "Biru Navy",
+                    "size": "",
+                    "total_stock": 7,
+                    "weight": 1.0,
+                    "height": 0.1,
+                    "width": 0.1,
+                    "length": 0.1
+                },
+                {
+                    "id": 52,
+                    "color": "Hijau Tosca",
+                    "size": "",
+                    "total_stock": 8,
+                    "weight": 1.0,
+                    "height": 0.1,
+                    "width": 0.1,
+                    "length": 0.1
+                },
+                {
+                    "id": 53,
+                    "color": "Pink Doff",
+                    "size": "",
+                    "total_stock": 10,
+                    "weight": 1.0,
+                    "height": 0.1,
+                    "width": 0.1,
+                    "length": 0.1
+                }
+            ],
+            "product_image": [
+                {
+                    "id": 76,
+                    "name": "56c5bda0-2738-4c34-8990-b10536de4ca3.jpg",
+                    "img_url": "http://apis.lakugan.monstercode.net/cdn/product-image/1617705307699.jpeg"
+                },
+                {
+                    "id": 77,
+                    "name": "8e1a03b0-6f87-493f-9589-93a64389aa39.jpg",
+                    "img_url": "http://apis.lakugan.monstercode.net/cdn/product-image/1617705307760.jpeg"
+                }
+            ],
+            "pre_order": false,
+            "count_day": 0
+        },
+        {
+            "id": 32,
+            "name": "Pisau dapur keramik set 5 in 1 + peeler",
+            
+            "description": "<p>Pisau set</p>",
+            "price": 130000,
+            "rate": 0.0,
+            "is_special_cut": false,
+            "nominal_special_cut": 0.0,
+            "category": {
+                "id": 37,
+                "name": "Barang kebutuhan rumah tangga",
+                "type": 0
+            },
+            "spec": [
+                {
+                    "id": 50,
+                    "color": "",
+                    "size": "",
+                    "total_stock": 10,
+                    "weight": 1.0,
+                    "height": 10.0,
+                    "width": 10.0,
+                    "length": 10.0
+                }
+            ],
+            "product_image": [
+                {
+                    "id": 74,
+                    "name": "0f5319d7-1821-4481-b9d5-b64fb135eac8.jpg",
+                    "img_url": "http://apis.lakugan.monstercode.net/cdn/product-image/1617705155174.jpeg"
+                },
+                {
+                    "id": 75,
+                    "name": "e37ecf28-2f0a-4861-b160-d77cd2feb105.jpg",
+                    "img_url": "http://apis.lakugan.monstercode.net/cdn/product-image/1617705155194.jpeg"
+                }
+            ],
+            "pre_order": false,
+            "count_day": 0
+        },
+        {
+            "id": 31,
+            "name": "rak mainan",
+            
+            "description": "<p>rak mainan anak</p>",
+            "price": 300000,
+            "rate": 0.0,
+            "is_special_cut": false,
+            "nominal_special_cut": 0.0,
+            "category": {
+                "id": 37,
+                "name": "Barang kebutuhan rumah tangga",
+                "type": 0
+            },
+            "spec": [
+                {
+                    "id": 49,
+                    "color": "",
+                    "size": "",
+                    "total_stock": 10,
+                    "weight": 1.0,
+                    "height": 100.0,
+                    "width": 20.0,
+                    "length": 30.0
+                }
+            ],
+            "product_image": [],
+            "pre_order": false,
+            "count_day": 0
+        },
+        {
+            "id": 30,
+            "name": "Rak Mainan",
+            
+            "description": "<p>rak mainan anak</p>",
+            "price": 300000,
+            "rate": 0.0,
+            "is_special_cut": false,
+            "nominal_special_cut": 0.0,
+            "category": {
+                "id": 37,
+                "name": "Barang kebutuhan rumah tangga",
+                "type": 0
+            },
+            "spec": [
+                {
+                    "id": 48,
+                    "color": "",
+                    "size": "",
+                    "total_stock": 10,
+                    "weight": 4.0,
+                    "height": 100.0,
+                    "width": 20.0,
+                    "length": 30.0
+                }
+            ],
+            "product_image": [
+                {
+                    "id": 67,
+                    "name": "9f2d1e23-267f-4cc1-bcb2-72911b05c824.jpg",
+                    "img_url": "http://apis.lakugan.monstercode.net/cdn/product-image/1617704858417.jpeg"
+                },
+                {
+                    "id": 68,
+                    "name": "95b872e9-3a78-49a3-a1f0-de8602adfbc2.jpg",
+                    "img_url": "http://apis.lakugan.monstercode.net/cdn/product-image/1617704858485.jpeg"
+                },
+                {
+                    "id": 69,
+                    "name": "299fc1b0-ef5c-4711-bc3b-3f030ec4d334.jpg",
+                    "img_url": "http://apis.lakugan.monstercode.net/cdn/product-image/1617704858544.jpeg"
+                },
+                {
+                    "id": 70,
+                    "name": "8f6690f5-974a-4424-8495-dc72925ab583.jpg",
+                    "img_url": "http://apis.lakugan.monstercode.net/cdn/product-image/1617704858591.jpeg"
+                }
+            ],
+            "pre_order": false,
+            "count_day": 0
+        },
+        {
+            "id": 28,
+            "name": "Fitness Belt",
+            
+            "description": "<p>Fitnes belt dari kulit asli dijamin awet, kuat, tahan lama</p>",
+            "price": 240000,
+            "rate": 0.0,
+            "is_special_cut": false,
+            "nominal_special_cut": 0.0,
+            "category": {
+                "id": 37,
+                "name": "Barang kebutuhan rumah tangga",
+                "type": 0
+            },
+            "spec": [
+                {
+                    "id": 46,
+                    "color": "",
+                    "size": "",
+                    "total_stock": 100,
+                    "weight": 1.0,
+                    "height": 5.0,
+                    "width": 5.0,
+                    "length": 100.0
+                }
+            ],
+            "product_image": [
+                {
+                    "id": 62,
+                    "name": "0015fad5-e631-44b5-b9cf-27432335e7b1.jpg",
+                    "img_url": "http://apis.lakugan.monstercode.net/cdn/product-image/1617696251706.jpeg"
+                }
+            ],
+            "pre_order": false,
+            "count_day": 0
+        },
+        {
+            "id": 27,
+            "name": "Thumbler tahan panas",
+           
+            "description": "<p>Thumbler tahan panas</p>",
+            "price": 110000,
+            "rate": 0.0,
+            "is_special_cut": false,
+            "nominal_special_cut": 0.0,
+            "category": {
+                "id": 37,
+                "name": "Barang kebutuhan rumah tangga",
+                "type": 0
+            },
+            "spec": [
+                {
+                    "id": 45,
+                    "color": "",
+                    "size": "",
+                    "total_stock": 500,
+                    "weight": 0.1,
+                    "height": 30.0,
+                    "width": 5.0,
+                    "length": 10.0
+                }
+            ],
+            "product_image": [
+                {
+                    "id": 61,
+                    "name": "3161f9b2-4961-440b-a08b-f2371cb219d9.jpg",
+                    "img_url": "http://apis.lakugan.monstercode.net/cdn/product-image/1617696094095.jpeg"
+                }
+            ],
+            "pre_order": false,
+            "count_day": 0
+        }
+    ]
+}
