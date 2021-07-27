@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import Data from "../../data.json";
+import Image from "../../asset/images.jpg";
 import { Card, CardImg, CardText, CardBody, CardTitle } from "reactstrap";
 import styled from "styled-components";
 
