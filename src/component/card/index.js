@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import Data from "../../data.json";
 import Image from "../../asset/images.jpg";
 import { Card, CardImg, CardText, CardBody, CardTitle } from "reactstrap";
 import styled from "styled-components";
@@ -49,13 +48,16 @@ const Style = styled.div`
 const CardProduct = ({ item }) => {
     return (
         <Style>
-        
             <Card>
                 <CardImg
                     className="product-image"
                     top
                     width="100%"
-                    src={item?.product_image?.length === 0 ? Image: item?.product_image[0]?.img_url}
+                    src={
+                        item?.product_image?.length === 0
+                            ? Image
+                            : item?.product_image[0]?.img_url
+                    }
                     alt="Card image cap"
                 />
                 <CardBody>
