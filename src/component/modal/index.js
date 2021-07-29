@@ -57,6 +57,7 @@ const ModalProduct = ({ isShow = false, setShow = () => {}, product = {} }) => {
             setTotal(total - 1);
         }
     };
+
     return (
         <Modal size="lg" isOpen={isShow} toggle={() => setShow(false)}>
             <ModalHeader toggle={() => setShow(false)}>
@@ -72,9 +73,10 @@ const ModalProduct = ({ isShow = false, setShow = () => {}, product = {} }) => {
                                         <div className="productItem">
                                             <img
                                                 src={
-                                                    item.img_url.length === null
+                                                    item?.img_url?.length ===
+                                                    null
                                                         ? defaultImage
-                                                        : item.img_url
+                                                        : item?.img_url
                                                 }
                                                 className="productItem-img"
                                             />
@@ -95,7 +97,19 @@ const ModalProduct = ({ isShow = false, setShow = () => {}, product = {} }) => {
                             __html: product.description,
                         }}
                     ></div>
-
+                    <div style={{ display: "flex" }}>
+                        <p>Warna : </p>
+                        {product?.spec?.length > 0 &&
+                            product?.spec?.map((item, key) => {
+                                return (
+                                    <p key={key} style={{ marginLeft: 10 }}>
+                                        {item?.color?.length === 0
+                                            ? "-"
+                                            : item?.color}
+                                    </p>
+                                );
+                            })}
+                    </div>
                     <div style={{ display: "flex" }}>
                         <p>Harga : </p>
                         <p style={{ marginLeft: 10 }}>{product.price}</p>
